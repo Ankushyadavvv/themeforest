@@ -1,0 +1,366 @@
+.sticky-lg-top {
+    background-color: rgb(254, 254, 254);
+}
+
+.navbar-brand {
+    margin-left: 165px;
+}
+
+.navbar-nav {
+    margin-left: 100px;
+}
+
+.navbar-nav .nav-item {
+    padding-right: 15px;
+}
+
+.firstbutton {
+    border: none;
+    border-radius: 50px;
+    margin-left: 300px;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #a68b7c;
+    transition: all 0.4s;
+}
+
+.firstbutton:hover {
+    background-color: #8e7161;
+}
+
+.firstbutton a {
+    text-decoration: none;
+    color: white;
+}
+
+.first {
+    background-color: rgb(226, 226, 226);
+    display: inline-block;
+    float: right;
+    width: 670px;
+    height: 480px;
+}
+
+.paragraph {
+    color: rgb(82, 81, 81);
+}
+
+.paragraphsecond {
+    color: rgb(82, 81, 81);
+    font-size: small;
+}
+
+.video {
+    display: inline-block;
+    width: 50%;
+    float: left;
+}
+
+.heading1 {
+    text-align: center;
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.paragraph {
+    text-align: center;
+}
+
+.paragraphsecond {
+    text-align: center;
+}
+
+.paragraphthird {
+    text-align: center;
+}
+
+.heading4 {
+    display: inline-block;
+    padding: 40px;
+    margin-left: 400px;
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.firstimage {
+    margin-left: 300px;
+}
+
+.divthird {
+    margin-left: 300px;
+}
+
+.secondimage {
+    margin-left: 800px;
+    margin-top: -580px;
+
+}
+
+.divfour {
+    margin-left: 800px;
+    margin-top: -150px;
+}
+
+.pthird {
+    color: rgb(82, 81, 81);
+}
+
+.pfour {
+    color: rgb(82, 81, 81);
+}
+
+.thirdimage {
+    margin: 70px;
+    margin-left: 250px;
+}
+
+.divfive {
+    margin-left: 850px;
+    margin-top: -600px;
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.bg {
+    background-color: rgb(242, 248, 248);
+}
+
+.pfive {
+    color: rgb(82, 81, 81);
+}
+
+.psix {
+    color: rgb(82, 81, 81);
+}
+
+.fourimage {
+    margin-left: 850px;
+    margin-top: 500px;
+}
+
+.divsix {
+    margin-left: 250px;
+    margin-top: -300px;
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.bgsecond {
+    background-color: rgb(242, 248, 248);
+}
+
+.pseven {
+    margin: 20px;
+    font-size: 18px;
+}
+
+.headingtwo {
+    color: white;
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.newdiv {
+    display: flex;
+    margin-top: 200px;
+}
+
+.divseven {
+    background-color: #a68b7c;
+    border: 1px solid rgb(148, 125, 125);
+    color: white;
+    height: 400px;
+    width: 520px;
+    text-align: center;
+    padding: 80px;
+}
+
+.divseven:hover {
+    transform: scale(1.1);
+    border: none;
+}
+
+.heading3 {
+    text-align: center;
+    margin: 40px;
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.form {
+    height: 50px;
+    width: 350px;
+    margin-left: 150px;
+}
+
+.secondbutton {
+    height: 50px;
+    width: 350px;
+    margin-left: 150px;
+    background-color: #a68b7c;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
+.secondbutton:hover {
+    background-color: #8e7161;
+}
+
+.p8 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: -40px;
+    color: white;
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.form2 {
+    height: 50px;
+    width: 350px;
+    margin-left: 580px;
+}
+
+.formbutton {
+    height: 50px;
+    width: 350px;
+    margin-left: 580px;
+    color: white;
+    background-color: #a68b7c;
+    border: none;
+    font-size: 20px;
+}
+
+.formbutton:hover {
+    background-color: #8e7161;
+}
+
+.div8 {
+    color: white;
+    margin-top: -550px;
+}
+
+.paragraphthird {
+    color: white;
+}
+
+.div9 {
+    border: 1px solid rgb(202, 235, 250);
+    height: 400px;
+    width: 370px;
+    text-align: center;
+    padding: 70px;
+}
+
+.div9:hover {
+    transform: scale(1.1);
+    background-color: #a68b7c;
+    color: white;
+    border: none;
+}
+
+.newdiv2 {
+    display: flex;
+    margin-left: 200px;
+    cursor: pointer;
+}
+
+.p10 {
+    font-size: 50px;
+}
+
+.p11 {
+    font-size: 25px;
+}
+
+.heading4 {
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.heading5 {
+    text-align: center;
+    color: rgb(82, 81, 81);
+    margin: 50px;
+}
+
+.insta {
+    margin: 150px;
+    margin-top: 200px;
+}
+
+.instag {
+    margin-left: 120px;
+    margin-top: -20px;
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.launch {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.p9 {
+    font-size: 16x;
+    color: rgb(82, 81, 81);
+    margin-left: 80px;
+}
+
+.instagram {
+    margin-left: 200px;
+    font-family: 'Lora', 'Georgia', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.p10 {
+    text-align: center;
+    opacity: 0.7;
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+.logo2 {
+    float: right;
+    margin-top: -70px;
+    cursor: pointer;
+    margin-right: 200px;
+}
+
+.fb {
+    margin-right: 10px;
+    cursor: pointer;
+    margin-left: 400px;
+    margin-top: -200px;
+    opacity: 0.7;
+}
+
+.in {
+    margin-right: 10px;
+    cursor: pointer;
+    margin-top: -200px;
+    opacity: 0.7;
+}
+
+.twitter {
+    margin-right: 10px;
+    cursor: pointer;
+    margin-top: -200px;
+    opacity: 0.7;
+}
+
+.youtube {
+    cursor: pointer;
+    margin-top: -200px;
+    opacity: 0.7;
+}
+
+.fb:hover {
+    opacity: 1.0;
+}
+
+.in:hover {
+    opacity: 1.0;
+}
+
+.twitter:hover {
+    opacity: 1.0;
+}
+
+.youtube:hover {
+    opacity: 1.0;
+}
